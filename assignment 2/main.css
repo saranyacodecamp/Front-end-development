@@ -1,0 +1,47 @@
+
+body{
+
+    background-color: rgb(237, 241, 241);
+    color: black;
+}
+
+p{
+    font-family: 'Georgia';
+
+}
+
+h1{
+    
+    text-align: center;
+    background-color: lightcoral
+
+}
+    
+h2{
+
+    text-align: center;
+
+}
+
+h3{
+    background-color: lightcoral;
+}
+
+.refer{
+    background-color: lightcoral;
+    text-align: left;
+}
+
+a:link { /* unvisited link */
+    color: red;
+  }
+  a:visited { /* visited link */
+    color: blue;
+  }
+  a:hover { /* moused over link */
+    color: green;
+  }
+
+i {
+    color: blue;
+}
